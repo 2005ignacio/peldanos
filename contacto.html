@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="contacto.css">
+    <title>Peldaños</title>
+
+</head>
+<body>
+
+    <h3 style="color:black">Libros y Juegos</h3>
+
+    <h4 style="color:black">tu forma de ser y crecer</h4>
+
+    <header>
+
+        <nav style="color:rgb(255, 105, 0)">
+            
+            <ul>
+                </li><a id="enlace1" style="color:rgb(255, 105, 0"href="index.html">Inicio</a></li>
+                </li><a id="enlace2" style="color:rgb(100, 30, 25);"href="primerainfancia.html">primera infancia</a></li>
+                </li><a id="enlace3" style="color:rgb(100, 30, 25);"href="infantiles.html">Infantiles</a></li>
+                </li><a id="enlace4" style="color:rgb(100, 30, 25)"href="juveniles.html">Juveniles</a></li>
+                </li><a id="enlace5" style="color:rgb(100, 30, 25)"href="generales.html">Generales</a></li>
+                </li><a id="enlace6" style="color:rgb(100, 30, 25);"href="juegosdidacticos.html">Juegos didacticos</a></li>
+                </li><a id="enlace7" style="color:rgb(255, 105, 0"href="contacto.html">Contacto</a></li>
+            </ul>
+
+        </nav>
+
+    </header>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <form action="enviar.php" method="post" enctype="text/plain">
+        <h2>CONTACTO</h2>
+        <label for="nombre" >Nombre:</label>
+        <input type="text" name="nombre" placeholder="Escribi tu nombre" >
+        <br>
+        <label for="tl">Telefono:</label>
+        <input type="number" placeholder="Escribi tu telefono">
+        <br>
+        <label for="email">Email:</label>
+        <input type="email" placeholder="Escribi tu email" required>
+        <br>
+        <label for="comentario">Comentarios:</label>
+        <br>
+        <textarea name="comentarios" id="" cols="30" rows="5" placeholder="Escribe tu comentario"></textarea>
+        <br>
+        <input type="submit" value="enviar">
+        <input type="reset" value="borrar">
+
+    </form>
+
+</body>
+</html>

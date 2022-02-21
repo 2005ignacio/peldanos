@@ -1,0 +1,264 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+header a {
+   padding-left: 56px;
+   padding-right: 56px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   background-color: rgba(218, 200, 153, 0.712);
+   font-size: 30px;
+   font-family: 'Patrick Hand', cursive;
+}
+
+
+h2 {
+   font-size: 55px;
+   background-color: chocolate;
+   margin-top: 40px;
+   padding-left: 505px;
+   padding-bottom: 12px;
+   padding-top: 12px;
+   font-family: 'Amatic SC', cursive;
+}
+
+h3 {
+   font-size: 30px;
+   background-color: rgb(100, 50, 25);
+   margin-top: -46px;
+   margin-bottom: 15px;
+   padding-left: 690px;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   font-family: 'Dancing Script', cursive;
+}
+
+.link1 {
+   background-color: rgb(225, 120, 0);
+   width: 5%;
+   padding-left: 70px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 70px;
+   font-size: 20px;
+   
+}
+
+.link2 {
+   background-color: rgb(225, 120, 0);
+   width: 5%;
+   padding-left: 70px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 70px;
+   font-size: 20px;
+}
+
+.contenedor {
+   border: 3px solid #000;
+   display: grid;
+
+   grid-template-columns: 580px 580px 580px;
+   padding-left: 33px;
+   padding-top: 33px;
+   padding-bottom: 33px;
+
+   grid-template-rows: 1fr 1fr;
+   grid-template-rows: 580px 580px 580px;
+
+   grid-column-gap: 2%;
+   grid-row-gap: 165px;
+
+}
+
+.item {
+   background-color: rgba(218, 200, 153, 0.712);
+   border: 5px dashed rgba(100, 50, 25)
+}
+
+div .hola1 {
+   width: 95%;
+   padding-left: 13px;
+   padding-top: 10px;
+   
+}
+
+div .hola2 {
+   width: 95%;
+   padding-left: 13px;
+   padding-top: 10px;
+}
+
+div .hola3 {
+   width: 96%;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+div .hola4 {
+   width: 78%;
+   padding-left: 62px;
+   padding-top: 10px;
+}
+
+div .hola5 {
+   width: 96%;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+div .hola6 {
+   width: 96%;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+div .hola7 {
+   width: 96%;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+div .hola8 {
+   width: 96%;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+div .hola9 {
+   width: 96%;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+.titulo1 {
+   background-color: rgb(255, 105, 0);
+   margin-left: 5px;
+   padding-left:125px;
+   padding-right: 124px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 30px;
+   color: rgb(100, 50, 25);
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.titulo2 {
+   background-color: rgb(255, 105, 0);
+   margin-left: 5px;
+   padding-left:66px;
+   padding-right: 65px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 30px;
+   color: rgb(100, 50, 25);
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+
+.titulo3 {
+   background-color: rgb(255, 105, 0);
+   margin-left: 5px;
+   padding-left:156px;
+   padding-right: 156px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 30px;
+   color: rgb(100, 50, 25);
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.titulo4 {
+   background-color: rgb(255, 105, 0);
+   margin-left: 0px;
+   padding-left:174px;
+   padding-right: 174px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 30px;
+   color: rgb(100, 50, 25);
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.titulo5 {
+   background-color: rgb(255, 105, 0);
+   margin-left: 5px;
+   padding-left:8px;
+   padding-right: 8px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 29px;
+   color: rgb(100, 50, 25);
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.titulo6 {
+   background-color: rgb(255, 105, 0);
+   margin-left: 5px;
+   padding-left:4px;
+   padding-right: 4px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 25px;
+   color: rgb(100, 50, 25);
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.titulo7 {
+   background-color: rgb(255, 105, 0);
+   margin-left: 5px;
+   padding-left:65px;
+   padding-right: 65px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 30px;
+   color: rgb(100, 50, 25);
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.titulo8 {
+   background-color: rgb(255, 105, 0);
+   margin-left: 5px;
+   padding-left:65px;
+   padding-right: 65px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 30px;
+   color: rgb(100, 50, 25);
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.titulo9 {
+   background-color: rgb(255, 105, 0);
+   margin-left: 5px;
+   padding-left:65px;
+   padding-right: 65px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 30px;
+   color: rgb(100, 50, 25);
+   font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+
+div .aaa {
+   background-color: rgb(100, 50, 25);
+   margin-left: 392px;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-bottom: 11px;
+   padding-top: 11px;
+   font-size: 30px;
+}
+
+a {
+   color: rgb(255, 255, 255);
+   font-family: 'Indie Flower', cursive;
+}
+
+div .logo-infantiles {
+   width: 40%;
+   margin-left: 1125px;
+   margin-top: 10px;
+}

@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+header a {
+   padding-left: 56px;
+   padding-right: 56px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   background-color: rgba(218, 200, 153, 0.712);
+   font-size: 30px;
+   font-family: 'Patrick Hand', cursive;
+}
+
+h2 {
+   font-size: 55px;
+   background-color: chocolate;
+   margin-top: 20px;
+   margin-bottom: -20px;
+   padding-left: 505px;
+   padding-bottom: 12px;
+   padding-top: 12px;
+   font-family: 'Amatic SC', cursive;
+}
+
+.link1 {
+   background-color: rgb(225, 120, 0);
+   width: 5%;
+   padding-left: 70px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 70px;
+   font-size: 20px;  
+}
+
+.link2 {
+   background-color: rgb(225, 120, 0);
+   width: 5%;
+   padding-left: 70px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 70px;
+   font-size: 20px;
+}
+
+img {
+   width: 21%;
+   padding-left: 100px;
+}
